@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "arial-bold";
+  src: url('../fonts/arial-bold.ttf');
+}
+
+@font-face {
+  font-family: "bebasneue-regular";
+  src: url('../fonts/bebasneue-regular.ttf');
+}
+
+a {
+  color: #e5a00d;
+  text-decoration: none;
+}
+
+body {
+  background-color: #252525;
+  color: #ffffff;
+  text-align: center;
+  width: 80;
+}
+
+div {
+  background-color: #252525;
+  color: white;
+  font-size: 25px;
+  font-family: bebasneue-regular;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+table {
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width: 75%;
+}
+
+td {
+  border: none;
+}
+
+tr {
+  border: none;
+}
+
+.khazarr_footer {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.khazarr_footer_links {
+  background: transparent;
+  border: 2px solid #e5a00d;
+  border-radius: 50px;
+  color: #e5a00d;
+  display: inline-block;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 150px;
+}
+
+.khazarr_headers_large {
+  background: transparent;
+  border: 2px solid #e5a00d;
+  border-radius: 50px;
+  color: #e5a00d;
+  display: inline-block;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  width: 150px;
+}
+
+.khazarr_logo {
+  margin-top: 50px;
+  margin-bottom: 15px;
+}
+
+.khazarr_setting {
+  color: #ffffff;
+  text-align: left;
+}
+
+.khazarr_value {
+  color: #e5a00d;
+  text-align: right;
+}
