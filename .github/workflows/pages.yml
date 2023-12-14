@@ -18,7 +18,7 @@ jobs:
           fetch-depth: 0
 
       - name: Ensure codebase is pushed to cloudflare apges
-        uses: loudflare/pages-action@v1
+        uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
