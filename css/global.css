@@ -75,10 +75,26 @@ tr {
   border-radius: 50px;
   color: #e5a00d;
   display: inline-block;
+  font-size: 25px;
   margin-bottom: 10px;
   padding-top: 10px;
   padding-left: 50px;
   padding-right: 50px;
+  padding-bottom: 10px;
+  width: 150px;
+}
+
+.khazarr_headers_medium {
+  background: transparent;
+  border: 2px solid #e5a00d;
+  border-radius: 25px;
+  color: #e5a00d;
+  display: inline-block;
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
   padding-bottom: 10px;
   width: 150px;
 }
