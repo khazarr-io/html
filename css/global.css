@@ -99,6 +99,21 @@ tr {
   width: 150px;
 }
 
+.khazarr_headers_small {
+  background: transparent;
+  border: 2px solid #e5a00d;
+  border-radius: 25px;
+  color: #e5a00d;
+  display: inline-block;
+  font-size: 15px;
+  margin-bottom: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  width: 100px;
+}
+
 .khazarr_logo {
   margin-top: 50px;
   margin-bottom: 15px;
